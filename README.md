@@ -1,4 +1,4 @@
-## Oi eu sou Felipe Clemente, desenvolvedor e estudante da Trybe!
+## Oi sou Felipe Clemente, desenvolvedor e estudante da Trybe!
 <div align="center">
   <a href="https://github.com/felipemike">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemike&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
