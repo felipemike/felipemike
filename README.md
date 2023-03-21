@@ -1,4 +1,4 @@
-## Oi sou Felipe Clemente, desenvolvedor e estudante da Trybe!
+## Olá! Eu sou um desenvolvedor front-end apaixonado por criar interfaces elegantes e responsivas. Meu objetivo é criar experiências de usuário incríveis e intuitivas através de tecnologias como HTML, CSS e JavaScript. Estou sempre em busca de novos desafios e aprendizados, e adoro trabalhar em equipe para encontrar soluções criativas para os problemas. Vamos construir algo incrível juntos!
 <div align="center">
   <a href="https://github.com/felipemike">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipemike&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
