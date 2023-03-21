@@ -1,4 +1,4 @@
-# Olá! Sou Felipe Clemente, desenvolvedor apaixonado por tecnologia e programação. Estudo na Trybe, estou sempre buscando aprimorar minhas habilidades em JavaScript, React, HTML, CSS. Acredito na importância da colaboração e compartilhamento de conhecimentos. Vamos construir coisas incríveis juntos!
+### Olá! Sou Felipe Clemente, desenvolvedor apaixonado por tecnologia e programação. Estudo na Trybe, estou sempre buscando aprimorar minhas habilidades em JavaScript, React, HTML, CSS. Acredito na importância da colaboração e compartilhamento de conhecimentos. Vamos construir coisas incríveis juntos!
 <div align="center">
   <a href="https://github.com/felipemike">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipemike&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
