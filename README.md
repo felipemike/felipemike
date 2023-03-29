@@ -30,8 +30,7 @@
 ## Alguns Projetos:
 
 <h3 align="center">Projetos Trybe</h3>
-<a href="https://felipemike.github.io/trybetunes" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybetunes/blob/main/src/img/logo.png" alt="TrybeTunes" height="40"/> </a>
-<a href="https://felipemike.github.io/tryunfo" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/tryunfo/blob/main/src/img/logo_tryunfo.png" alt="Tryunfo" height="40"/> </a>
+<a href="https://felipemike.github.io/trybetunes" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="40"/> </a>
 
 <h3 align="center">Projetos Pessoais</h3>
 <a href="https://felipemike.github.io/erp-api-documentation/" target="_blank" rel="noreferrer"> <img src="https://static.ragnaplace.com/db/npc/gif/1002.gif" alt="VRCP" height="40"/> </a>
