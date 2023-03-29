@@ -12,7 +12,7 @@
 
 ## Atualmente, estou trabalhando em um projeto pessoal:
 
-- Mobile App: An Android app to integrate with the API <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>
+- Sistemas de votos por pontos <img src="" alt="flutter" width="15" height="15"/>
 
 #
 <div align="center">
