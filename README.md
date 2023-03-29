@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou Felipe</h1>
 
 ## Sou um estudante de programação focado em:
-  - Web Development 
+  - Desenvolvimento Web 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
 ## Eu estudo desenvolvimento web na Trybe:
 
