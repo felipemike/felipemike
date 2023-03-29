@@ -12,7 +12,7 @@
 
 ## Atualmente, estou trabalhando em um projeto pessoal:
 
-- Sistemas de votos por pontos <img src="" alt="flutter" width="15" height="15"/>
+- Sistemas de votos por pontos <img src="https://static.ragnaplace.com/db/npc/gif/1002.gif" alt="flutter" width="15" height="15"/>
 
 #
 <div align="center">
