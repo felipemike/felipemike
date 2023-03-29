@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Felipe</h1>
+<h1 align="center">Olá 👋, Sou Felipe</h1>
 
 ## Sou um estudante de programação focado em:
   - Web Development <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
@@ -33,7 +33,7 @@
 <a href="https://felipemike.github.io/trybetunes" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybetunes/blob/main/src/img/logo.png" alt="TrybeTunes" height="40"/> </a>
 <a href="https://felipemike.github.io/tryunfo" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/tryunfo/blob/main/src/img/logo_tryunfo.png" alt="Tryunfo" height="40"/> </a>
 
-<h3 align="center">Projetos pessoais</h3>
+<h3 align="center">Projetos Pessoais</h3>
 <a href="https://felipemike.github.io/erp-api-documentation/" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/erp-api-documentation/blob/main/public/owl_icon.png" alt="ERP API" height="40"/> </a>
   
 ## Linguagens e Ferramentas:
