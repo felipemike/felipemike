@@ -12,7 +12,7 @@
 
 ## Atualmente, estou trabalhando em um projeto pessoal:
 
-- Sistemas de votos por pontos <img src="https://static.ragnaplace.com/db/npc/gif/1002.gif" alt="flutter" width="15" height="15"/>
+- Sistemas de votos por pontos <img src="https://static.ragnaplace.com/db/npc/gif/1002.gif" alt="flutter" width="20" height="20"/>
 
 #
 <div align="center">
@@ -34,7 +34,7 @@
 <a href="https://felipemike.github.io/tryunfo" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/tryunfo/blob/main/src/img/logo_tryunfo.png" alt="Tryunfo" height="40"/> </a>
 
 <h3 align="center">Projetos Pessoais</h3>
-<a href="https://felipemike.github.io/erp-api-documentation/" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/erp-api-documentation/blob/main/public/owl_icon.png" alt="ERP API" height="40"/> </a>
+<a href="https://felipemike.github.io/erp-api-documentation/" target="_blank" rel="noreferrer"> <img src="https://static.ragnaplace.com/db/npc/gif/1002.gif" alt="VRCP" height="40"/> </a>
   
 ## Linguagens e Ferramentas:
 <p align="left">
