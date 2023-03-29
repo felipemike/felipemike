@@ -3,17 +3,12 @@
 ## Sou um estudante de programação focado em:
   - Desenvolvimento Web 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
-## Eu estudo desenvolvimento web na Trybe:
+## Estudo desenvolvimento web na Trybe:
 
 - [x] HTML5
 - [x] CSS3
 - [x] JavaScript
 - [x] React
-
-## Atualmente, estou trabalhando em um projeto pessoal:
-
-- Sistemas de votos por pontos <img src="https://static.ragnaplace.com/db/npc/gif/1002.gif" alt="flutter" width="25" height="25"/>
-
 #
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=felipemike&label=Profile%20views&color=0e75b6&style=flat" alt="felipemike" /></p>
