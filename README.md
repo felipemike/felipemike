@@ -25,9 +25,7 @@
   <a href="https://github.com/felipemike">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipemike&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemike&layout=compact&theme=radical"/>
-    
-      ![Snake animation](https://github.com/felipemike/felipemike/blob/output/github-contribution-grid-snake.svg)
-    
+  
 </div>
 
 ## Alguns Projetos:
@@ -66,16 +64,10 @@
   [![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)]()
   [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)]()
   
-## Connect with me:
+## Contatos:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:felipeclemente2012@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeclemente2012)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5527998792958)
-
-## Hobbies:
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?logo=amazon%20alexa&logoColor=white)](https://developer.amazon.com/en-US/alexa)
-  
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5588996970076)
   
   ![Snake animation](https://github.com/felipemike/felipemike/blob/output/github-contribution-grid-snake.svg)
  
