@@ -28,8 +28,7 @@
 
 <h3 align="center">Projetos Trybe</h3>
   
-<a href="https://github.com/felipemike/trybewarts" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" alt="Trybewarts" height="45"/> </a>
-  
+<a href="https://github.com/felipemike/trybewarts" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" alt="Trybewarts" height="40"/> </a>
 <a href="https://github.com/felipemike/trybewarts" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="45"/> </a>
 
 <h3 align="center">Projetos Pessoais</h3>
