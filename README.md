@@ -28,6 +28,8 @@
 
 <h3 align="center">Projetos Trybe</h3>
 <a href="https://github.com/felipemike/trybewarts" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="45"/> </a>
+<a href=":pushpin:" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="45"/> </a>
+  :pushpin:
 
 <h3 align="center">Projetos Pessoais</h3>
 <a href="https://github.com/felipemike/vcp-main" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/vcp-main/blob/main/favicon.png" alt="VRCP" height="40"/> </a>
