@@ -11,6 +11,7 @@
 - [x] CSS3
 - [x] JavaScript
 - [x] React
+- [x] TypeScript
 #
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=felipemike&label=Profile%20views&color=0e75b6&style=flat" alt="felipemike" /></p>
@@ -29,6 +30,7 @@
 <h3 align="center">Projetos Trybe</h3>
   
 <a href="https://github.com/felipemike/lessons-learned" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" alt="Lessons-Learned" height="40"/> </a>
+<a href="https://github.com/felipemike/trybewarts" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="45"/> </a>
 <a href="https://github.com/felipemike/trybewarts" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="45"/> </a>
 
 <h3 align="center">Projetos Pessoais</h3>
