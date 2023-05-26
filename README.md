@@ -35,9 +35,9 @@
 
 ### Projetos Trybe:
 
-- [<img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" height="20"> Lessons Learned](https://felipemike.github.io/lessons-learned)
-- [<img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" height="20"> Trybewarts](https://felipemike.github.io/trybewarts)
-- [<img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" height="20"> TrybeTunes](https://github.com/felipemike/trybetunes)
+- [<img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" height="30"> Lessons Learned](https://felipemike.github.io/lessons-learned)
+- [<img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" height="30"> Trybewarts](https://felipemike.github.io/trybewarts)
+- [<img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" height="30"> TrybeTunes](https://github.com/felipemike/trybetunes)
 
 ### Projetos Pessoais:
 
