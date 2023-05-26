@@ -35,13 +35,13 @@
 
 ### Projetos Trybe:
 
-- [![Lessons Learned](https://github.com/felipemike/lessons-learned/blob/main/trybe.png)](https://felipemike.github.io/lessons-learned) Lessons Learned
-- [![Trybewarts](https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg)](https://felipemike.github.io/trybewarts) Trybewarts
-- [![TrybeTunes](https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png)](https://github.com/felipemike/trybetunes) TrybeTunes
+- [<img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" height="20"> Lessons Learned](https://felipemike.github.io/lessons-learned)
+- [<img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" height="20"> Trybewarts](https://felipemike.github.io/trybewarts)
+- [<img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" height="20"> TrybeTunes](https://github.com/felipemike/trybetunes)
 
 ### Projetos Pessoais:
 
-- [![VRCP](https://github.com/felipemike/vcp-main/blob/main/favicon.png)](https://github.com/felipemike/vcp-main) VRCP
+- [<img src="https://github.com/felipemike/vcp-main/blob/main/favicon.png" height="20"> VRCP](https://github.com/felipemike/vcp-main)
 
 ## Linguagens e Ferramentas:
 
@@ -50,4 +50,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-word
+  <img src="https://
