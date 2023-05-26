@@ -7,11 +7,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
 ## Estudo desenvolvimento web na Trybe:
 
-- [x] HTML5
-- [x] CSS3
-- [x] JavaScript
-- [x] React
-- [x] TypeScript
+- HTML5 ✔️
+- CSS3 ✔️
+- JavaScript ✔️
+- React ✔️
+- TypeScript ✔️
 #
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=felipemike&label=Profile%20views&color=0e75b6&style=flat" alt="felipemike" /></p>
