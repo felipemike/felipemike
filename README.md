@@ -29,9 +29,9 @@
 
 <h3 align="center">Projetos Trybe</h3>
   
-<a href="https://felipemike.github.io/lessons-learned/" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" alt="Lessons-Learned" height="40"/> </a>
-<a href="https://felipemike.github.io/trybewarts/" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="45"/> </a>
-<a href="https://github.com/felipemike/trybetunes" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" alt="TrybeTunes" height="40"/> </a>
+<a href="https://felipemike.github.io/lessons-learned/" target="_blank" rel="noreferrer">  <img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" alt="Lessons-Learned" height="40"/> </a>
+<a href="https://felipemike.github.io/trybewarts/" target="_blank" rel="noreferrer">  <img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" alt="Trybewarts" height="45"/> </a>
+<a href="https://github.com/felipemike/trybetunes" target="_blank" rel="noreferrer">  <img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" alt="TrybeTunes" height="40"/> </a>
 
 <h3 align="center">Projetos Pessoais</h3>
 <a href="https://github.com/felipemike/vcp-main" target="_blank" rel="noreferrer"> <img src="https://github.com/felipemike/vcp-main/blob/main/favicon.png" alt="VRCP" height="40"/> </a>
