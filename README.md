@@ -35,19 +35,19 @@
 
 ### Projetos Trybe:
 
-- [<img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" height="30"> Lessons Learned](https://felipemike.github.io/lessons-learned)
-- [<img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" height="30"> Trybewarts](https://felipemike.github.io/trybewarts)
-- [<img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" height="30"> TrybeTunes](https://github.com/felipemike/trybetunes)
+- Lessons Learned [<img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" height="20">](https://felipemike.github.io/lessons-learned)
+- Trybewarts [<img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" height="20">](https://felipemike.github.io/trybewarts)
+- TrybeTunes [<img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" height="20">](https://github.com/felipemike/trybetunes)
 
 ### Projetos Pessoais:
 
-- [<img src="https://github.com/felipemike/vcp-main/blob/main/favicon.png" height="20"> VRCP](https://github.com/felipemike/vcp-main)
+- VRCP [<img src="https://github.com/felipemike/vcp-main/blob/main/favicon.png" height="20">](https://github.com/felipemike/vcp-main)
 
 ## Linguagens e Ferramentas:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> HTML5
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> CSS3
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> Jest
+  <
