@@ -5,6 +5,7 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
+  
 ## Estudo desenvolvimento web na Trybe:
 
 - HTML5 ✔️
