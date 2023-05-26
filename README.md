@@ -43,7 +43,7 @@ Sou um amante da programação com foco em Desenvolvimento Web. Minha paixão é
 
 ## Entre em contato:
 
-- LinkedIn: [felipemike](https://www.linkedin.com/in/felipeclemente2012)
+- LinkedIn: [Felipe Clemente](https://www.linkedin.com/in/felipeclemente2012)
 - Email: [felipeclemente2012@gmail.com](mailto:felipeclemente2012@gmail.com)
-- Portfolio: [www.felipemike.com](https://www.felipemike.com)
+- Portfolio: [Felipe Clemente](https://www.felipemike.com)
 
