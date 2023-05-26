@@ -1,6 +1,7 @@
 # Olá! 👋 Sou o Felipe
 
 ## Desenvolvedor Web apaixonado por criar soluções incríveis.
+![Banner](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 Sou um entusiasta da programação com foco em Desenvolvimento Web. Minha paixão é transformar ideias em código e criar experiências interativas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
