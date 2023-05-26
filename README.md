@@ -35,9 +35,9 @@
 
 ### Projetos Trybe:
 
-- Lessons Learned [<img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" height="30">](https://felipemike.github.io/lessons-learned)
-- Trybewarts [<img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" height="30">](https://felipemike.github.io/trybewarts)
-- TrybeTunes [<img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" height="30">](https://github.com/felipemike/trybetunes)
+- Lessons Learned  [<img src="https://github.com/felipemike/lessons-learned/blob/main/trybe.png" height="30">](https://felipemike.github.io/lessons-learned)
+- Trybewarts  [<img src="https://github.com/felipemike/trybewarts/blob/main/images/trybewarts-colored.svg" height="30">](https://felipemike.github.io/trybewarts)
+- TrybeTunes  [<img src="https://github.com/felipemike/trybetunes/blob/main/src/assets/logo.png" height="30">](https://github.com/felipemike/trybetunes)
 
 ### Projetos Pessoais:
 
@@ -50,4 +50,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>  
-  <
