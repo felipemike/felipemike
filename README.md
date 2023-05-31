@@ -3,7 +3,7 @@
 ## Desenvolvedor Web apaixonado por criar soluções incríveis.
 ![Banner](*)
 
-Sou um amante da tecnologia com foco em Desenvolvimento Web. Minha paixão é transformar ideias em código e criar experiências interativas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Sou um amante de tecnologia com foco em Desenvolvimento Web. Minha paixão é transformar ideias em código e criar experiências interativas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## Skills:
 
