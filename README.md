@@ -29,7 +29,7 @@ Sou um intusiasta da  programação com foco em Desenvolvimento Web. Minha paix�
 
 ### Projetos Pessoais:
 
-- [VCP](https://github.com/felipemike/vcp-main)
+- [VCP](https://github.com/felipemike/vcp)
   - Sistema de votos por pontos para servidores de jogos online.
 
 ## Estatísticas do GitHub:
