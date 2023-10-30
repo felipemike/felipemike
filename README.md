@@ -29,8 +29,8 @@ Sou um intusiasta da  programação com foco em Desenvolvimento Web. Minha paix�
 
 ### Projetos Pessoais:
 
-- [VRCP](https://github.com/felipemike/vcp-main)
-  - Um projeto pessoal de realidade virtual, explorando novas tecnologias e conceitos.
+- [VCP](https://github.com/felipemike/vcp-main)
+  - Sistema de votos por pontos para servidores de jogos online.
 
 ## Estatísticas do GitHub:
 
